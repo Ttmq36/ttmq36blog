@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "96e788a99e182f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d248187dfc81473",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e84ce4abde2212c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/我的第一篇博客.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ac28fa2c957b23ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e26b781b49181a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb7c428b83ea5e85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f224bb81a0e17d0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "摄像机",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08d8a54d0403024f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cb6a790f4548dc1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ea74310b264fa53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6831045b027d4434",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/我的第一篇博客.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b65c61f09960848c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/我的第一篇博客.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c77fa9c4344a3cb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "776d5601e045ba85",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/我的第一篇博客.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "canvas:新建白板": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "e84ce4abde2212c4",
+  "lastOpenFiles": [
+    "_drafts/博客从零到一装修记录.md",
+    "about/index.md",
+    "_posts/我的第一篇博客.md",
+    "博客/关于过滤.md",
+    "博客/Hexo.md",
+    "Blogs/博客搭建/记录.md",
+    "运维/Debain.md",
+    "运维",
+    "MapboxGL/渲染文字偏移.md",
+    "博客",
+    "MapboxGL/解析瓦片.md",
+    "MapboxGL/内存占用问题.md",
+    "MapboxGL/图片绘制流程.md",
+    "文档/空间Space.md",
+    "数据库/空间数据表示格式.md",
+    "【开发】脚本工具/状态.md",
+    "【开发】脚本工具/TODO.md",
+    "概念明细/URI、URL、URN、URC.md",
+    "工作/20240201 部署两套缓存服务.md",
+    "MapboxGL/瓦片数据源.md",
+    "MapboxGL/瓦片数据解析.md",
+    "MapboxGL/图元.md",
+    "MapboxGL/切片渲染.md",
+    "MapboxGL/搭建本机瓦片服务.md",
+    "MapboxGL/切片解析工具.md",
+    "MapboxGL/视窗与坐标转换.md",
+    "MapboxGL/关于热力图自定义权重计算规则.md",
+    "MapboxGL/处理mapboxgl表达式.md",
+    "Node",
+    "assets/Pasted image 20241019152159.png",
+    "Pasted image 20241019152139.png",
+    "assets/Pasted image 20241019152213.png",
+    "assets/Pasted image 20241019152139.png",
+    "assets/Pasted image 20241019152243.png",
+    "assets",
+    "新建文件夹",
+    "Pasted image 20241019152159.png",
+    "Pasted image 20241019152243.png",
+    "Pasted image 20241019152213.png",
+    "Excalidraw",
+    "图形学/图形学/漫反射+高光.png",
+    "图形学/图形学/assets/正交投影正规操作.png",
+    "PixiJS/核心模块/未命名",
+    "PixiJS/核心概念",
+    "PixiJS/核心模块",
+    "PixiJS",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas"
+  ]
+}
